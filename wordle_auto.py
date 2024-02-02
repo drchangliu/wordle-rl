@@ -2,7 +2,7 @@ import numpy as np
 import os
 
 
-words_list_path = r'/home/s-sd/Desktop/wordle_auto/word_list.txt'
+words_list_path = r'word_list.txt'
 
 f = open(words_list_path, 'r')
 
